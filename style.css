@@ -1,0 +1,30 @@
+.heading{
+    background-color: lightseagreen;
+}
+.nav a{
+    line-height: 1em;
+    display: inline-block;
+    text-decoration: none;
+    padding: 120;
+    margin: 42;
+    color: black;
+}
+section .underline{
+    text-decoration: underline;
+}
+.nav a:hover{
+    text-decoration: underline;
+    
+}
+section a {
+    gap: 1rem;
+}
+.color{
+    background-color: gray;
+}
+section .color div{
+    margin-top: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+
+}
